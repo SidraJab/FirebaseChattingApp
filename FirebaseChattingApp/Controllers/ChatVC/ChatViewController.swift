@@ -124,7 +124,12 @@ class ChatViewController: MessagesViewController, MessagesDataSource, InputBarAc
                             self.sender = self.otherUser
                         }
                         
-                        self.message.append(Message(sender: self.sender, messageId: "1", sentDate: Date().addingTimeInterval(-56400) , kind: .text(dictionary["message"] as! String)))
+//                        self.message.append(Message(sender: self.sender, messageId: "1", sentDate: Date().addingTimeInterval(-56400) , kind: .text(dictionary["message"] as! String)))
+//                        let imgUrl = dictionary["message"] as! String
+//                        if imgUrl == URL {
+//
+//                        }
+                        self.message.append(Message(sender: self.sender, messageId: "1", sentDate: Date().addingTimeInterval(-56400) , kind: .photo(Media(url: URL(string: dictionary["message"] as! String), image: UIImage(named: dictionary["message"] as! String), placeholderImage: #imageLiteral(resourceName: "icons8-photo-gallery-50"), size: CGSize(width: 250, height: 100)))))
                         
                     }
                 }

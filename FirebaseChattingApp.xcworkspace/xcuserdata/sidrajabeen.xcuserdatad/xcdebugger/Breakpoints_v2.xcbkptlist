@@ -52,7 +52,7 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "93D6E4DC-C754-4275-9A2A-77C4AAC31667 - 6ed9159be5c157ac"
+                  uuid = "93D6E4DC-C754-4275-9A2A-77C4AAC31667 - 6ed9159be5c156e2"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -62,12 +62,12 @@
                   urlString = "file:///Users/sidrajabeen/Desktop/FirebaseChattingApp/FirebaseChattingApp/Controllers/AddChannelsViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "106"
-                  endingLineNumber = "106"
-                  offsetFromSymbolStart = "1212">
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "996">
                </Location>
                <Location
-                  uuid = "93D6E4DC-C754-4275-9A2A-77C4AAC31667 - 5ef7ff2e81e8a6e1"
+                  uuid = "93D6E4DC-C754-4275-9A2A-77C4AAC31667 - 5ef7ff2e81e8a7af"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -77,9 +77,9 @@
                   urlString = "file:///Users/sidrajabeen/Desktop/FirebaseChattingApp/FirebaseChattingApp/Controllers/AddChannelsViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "106"
-                  endingLineNumber = "106"
-                  offsetFromSymbolStart = "37">
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "44">
                </Location>
             </Locations>
          </BreakpointContent>
