@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>592048930713-6vlhblqgmceu4ma55i68b5ici7r8vmgm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.592048930713-6vlhblqgmceu4ma55i68b5ici7r8vmgm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIxQ5uzUAMfr_8i5gSdTwwvRk-0mCtp0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>592048930713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Aksa-SDS.FirebaseChattingApp</string>
+	<key>PROJECT_ID</key>
+	<string>fir-chattingapp-62135</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-chattingapp-62135.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:592048930713:ios:ebccf7a9b765508b7f5d08</string>
+</dict>
+</plist>

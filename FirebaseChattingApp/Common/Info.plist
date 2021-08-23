@@ -62,5 +62,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key> Privacy - Photo Library Usage</key>
+	<string>Used to send photos from the Photo Library.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera usage description</string>
+	<key>FirebaseAutomaticScreenReportingEnabled</key>
+	<false/>
 </dict>
 </plist>
