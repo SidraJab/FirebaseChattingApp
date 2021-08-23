@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D493C465-5D5A-4996-9FA4-3C2A0A471E90"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5D49666-2348-4CBF-B7BE-37C890E54A70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseChattingApp/ChannelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "getChatUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15073BDE-DF73-47F1-BF1B-D3838514E882"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseChattingApp/Controllers/ChatVC/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93D6E4DC-C754-4275-9A2A-77C4AAC31667"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseChattingApp/Controllers/AddChannelsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "findUser(name:id:cell:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93D6E4DC-C754-4275-9A2A-77C4AAC31667 - 6ed9159be5c157ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseChattingApp.AddChannelsViewController.findUser(name: Swift.String, id: Swift.String, cell: FirebaseChattingApp.AllUsersTableViewCell) -&gt; ()"
+                  moduleName = "FirebaseChattingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sidrajabeen/Desktop/FirebaseChattingApp/FirebaseChattingApp/Controllers/AddChannelsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+               <Location
+                  uuid = "93D6E4DC-C754-4275-9A2A-77C4AAC31667 - 5ef7ff2e81e8a6e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FirebaseChattingApp.user) -&gt; Swift.Bool in FirebaseChattingApp.AddChannelsViewController.findUser(name: Swift.String, id: Swift.String, cell: FirebaseChattingApp.AllUsersTableViewCell) -&gt; ()"
+                  moduleName = "FirebaseChattingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sidrajabeen/Desktop/FirebaseChattingApp/FirebaseChattingApp/Controllers/AddChannelsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
